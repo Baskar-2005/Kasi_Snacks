@@ -1,0 +1,741 @@
+# KASI SNACKS
+## AWWWARDS QUALITY PREMIUM TRADITIONAL SNACKS WEBSITE
+
+You are an Award Winning Creative Director, Senior UI/UX Designer, Motion Designer, Brand Strategist, 3D Designer and Full Stack Developer.
+
+Design and build a world-class premium website for **KASI SNACKS**.
+
+This is NOT a normal food website.
+
+DO NOT use traditional layouts.
+
+DO NOT use outdated sliders.
+
+DO NOT use ordinary cards.
+
+DO NOT create another ecommerce template.
+
+Instead create a cinematic storytelling experience.
+
+The website should instantly communicate
+
+🌾 Traditional Heritage
+
+🥨 Handmade Snacks
+
+🏡 Homemade Taste
+
+✨ Premium Quality
+
+❤️ Authentic Recipes
+
+🌍 Modern Brand
+
+The website should feel like
+
+Apple
+
+Lindt
+
+Ferrero Rocher
+
+Nothing
+
+Nike
+
+Awwwards
+
+Framer
+
+Lusion
+
+Locomotive
+
+Studio Freight
+
+--------------------------------------------
+
+# TECH STACK
+
+React
+
+TypeScript
+
+TailwindCSS
+
+Framer Motion
+
+GSAP
+
+Lenis Smooth Scroll
+
+Three.js
+
+React Three Fiber
+
+Spline
+
+Lottie
+
+Swiper
+
+React Hook Form
+
+Shadcn UI
+
+Lucide React
+
+--------------------------------------------
+
+# DESIGN STYLE
+
+Luxury
+
+Warm
+
+Glassmorphism
+
+Premium
+
+Editorial
+
+Organic
+
+Modern
+
+Minimal
+
+3D
+
+Immersive
+
+Storytelling
+
+--------------------------------------------
+
+# COLOR PALETTE
+
+Deep Brown
+#3B2314
+
+Golden Yellow
+#D9A520
+
+Warm Cream
+#FFF8EE
+
+Caramel
+#C7852B
+
+Forest Green
+#2D5A3D
+
+Glass White
+
+Soft Beige
+
+--------------------------------------------
+
+# WEBSITE EXPERIENCE
+
+Every scroll should tell a story.
+
+The visitor should feel
+
+"These snacks are handcrafted with love."
+
+Every animation should feel smooth.
+
+Every section should connect naturally.
+
+No static UI.
+
+No straight dividers.
+
+--------------------------------------------
+
+# LOADING SCREEN ⭐⭐⭐⭐⭐
+
+No spinner.
+
+Sequence
+
+Dark Background
+
+↓
+
+Golden flour particles appear.
+
+↓
+
+Particles swirl beautifully.
+
+↓
+
+Murukku pieces slowly rotate.
+
+↓
+
+Adhirasam appears.
+
+↓
+
+Both merge into the Kasi Snacks logo.
+
+↓
+
+Golden flour explodes softly.
+
+↓
+
+Logo glows.
+
+↓
+
+Transition into Hero.
+
+Everything should blend smoothly.
+
+--------------------------------------------
+
+# NAVIGATION ⭐⭐⭐⭐⭐
+
+Initially
+
+Transparent
+
+Minimal
+
+Elegant
+
+Only logo and menu.
+
+While scrolling
+
+Navbar transforms into
+
+Floating Glass Navigation
+
+Rounded Pill
+
+Blur Background
+
+Golden Border
+
+Soft Shadow
+
+Logo shrinks elegantly
+
+Navigation slides smoothly
+
+Hide while scrolling down
+
+Reappear while scrolling up
+
+Smooth spring animation
+
+Looks like Apple Vision Pro.
+
+Never jump suddenly.
+
+--------------------------------------------
+
+# HERO SECTION ⭐⭐⭐⭐⭐
+
+DO NOT use banners.
+
+Create a cinematic hero.
+
+Background
+
+Traditional wooden table.
+
+Morning sunlight through window.
+
+Soft flour particles floating.
+
+Traditional brass plate.
+
+Banana leaf.
+
+Warm lighting.
+
+Centerpiece
+
+A stunning 3D Murukku slowly rotating.
+
+Nearby
+
+Adhirasam
+
+Seedai
+
+Ribbon Pakoda
+
+Mixture
+
+Cashews
+
+Curry Leaves
+
+Everything floating gently.
+
+Mouse movement creates subtle parallax.
+
+Headline
+
+## Handmade Tradition. Crafted With Love.
+
+Sub Heading
+
+Experience authentic South Indian snacks prepared using traditional recipes, premium ingredients and generations of expertise.
+
+Buttons
+
+Explore Snacks
+
+Watch Making Process
+
+Bulk Orders
+
+Floating Statistics
+
+30+
+
+Products
+
+1000+
+
+Happy Customers
+
+Fresh Every Batch
+
+Traditional Recipe
+
+Animated counters.
+
+--------------------------------------------
+
+# HERO ANIMATION
+
+Loading screen fades.
+
+↓
+
+Camera slowly moves towards the wooden table.
+
+↓
+
+Golden sunlight enters.
+
+↓
+
+3D Murukku rotates.
+
+↓
+
+Ingredients float naturally.
+
+↓
+
+Headline reveals word-by-word.
+
+↓
+
+Buttons animate.
+
+↓
+
+Background continues breathing.
+
+Feels like a premium food commercial.
+
+--------------------------------------------
+
+# SECTION TRANSITIONS ⭐⭐⭐⭐⭐
+
+No straight cuts.
+
+Examples
+
+Flour particles
+
+↓
+
+Become wheat field.
+
+↓
+
+Transforms into ingredients.
+
+↓
+
+Ingredients become handmade preparation.
+
+↓
+
+Preparation becomes finished snacks.
+
+↓
+
+Finished snacks become happy customers.
+
+Everything flows naturally.
+
+--------------------------------------------
+
+# OUR STORY
+
+Storytelling timeline.
+
+Traditional recipes.
+
+Family values.
+
+Growth.
+
+Premium manufacturing.
+
+Today's brand.
+
+Animated timeline.
+
+--------------------------------------------
+
+# HANDMADE PROCESS ⭐⭐⭐⭐⭐
+
+Interactive timeline.
+
+Rice Flour
+
+↓
+
+Mixing
+
+↓
+
+Hand Rolling
+
+↓
+
+Traditional Shaping
+
+↓
+
+Slow Frying
+
+↓
+
+Quality Inspection
+
+↓
+
+Packing
+
+↓
+
+Delivery
+
+Each stage has
+
+Real image
+
+Animation
+
+Hover interaction
+
+Micro motion.
+
+--------------------------------------------
+
+# PRODUCT SHOWCASE
+
+Do NOT use normal cards.
+
+Products float in 3D.
+
+Murukku
+
+Kai Murukku
+
+Adhirasam
+
+Ribbon Pakoda
+
+Mixture
+
+Seedai
+
+Sweet Snacks
+
+Hover
+
+↓
+
+Rotate slightly.
+
+↓
+
+Glass reflection.
+
+↓
+
+Premium shadow.
+
+↓
+
+Ingredients appear.
+
+--------------------------------------------
+
+# WHY KASI SNACKS
+
+Beautiful Glass Cards.
+
+Traditional Recipes
+
+Premium Ingredients
+
+Handmade
+
+No Artificial Taste
+
+Bulk Orders
+
+Fresh Production
+
+Quality Guaranteed
+
+--------------------------------------------
+
+# FEATURED PRODUCTS
+
+Horizontal storytelling.
+
+Large product images.
+
+Luxury packaging.
+
+Beautiful hover animations.
+
+Quick details.
+
+--------------------------------------------
+
+# BULK ORDER SECTION
+
+Hotels
+
+Retailers
+
+Distributors
+
+Marriage Functions
+
+Corporate Gifts
+
+Export
+
+Beautiful interactive cards.
+
+--------------------------------------------
+
+# CUSTOMER LOVE
+
+Premium testimonials.
+
+Google rating.
+
+Customer photos.
+
+Animated reviews.
+
+--------------------------------------------
+
+# GALLERY
+
+Pinterest Masonry
+
+Kitchen
+
+Production
+
+Snacks
+
+Packing
+
+Customers
+
+Festivals
+
+--------------------------------------------
+
+# CONTACT
+
+Interactive map.
+
+WhatsApp
+
+Call
+
+Email
+
+Bulk Order Form
+
+Google Reviews
+
+--------------------------------------------
+
+# FOOTER
+
+Luxury Footer
+
+Glass
+
+Newsletter
+
+Quick Links
+
+Social
+
+Google Maps
+
+--------------------------------------------
+
+# MICRO INTERACTIONS
+
+Everything should animate.
+
+Buttons ripple.
+
+Cards float.
+
+Glass reflections.
+
+Cursor reacts.
+
+Images zoom.
+
+Numbers animate.
+
+Hover glows.
+
+Nothing static.
+
+--------------------------------------------
+
+# CUSTOM CURSOR ⭐⭐⭐⭐⭐
+
+Replace default cursor.
+
+Create a premium cursor.
+
+Cursor should become
+
+Mini Golden Murukku
+
+OR
+
+Golden Flour Particle
+
+OR
+
+Small Traditional Brass Plate
+
+Hover
+
+↓
+
+Glow
+
+↓
+
+Scale
+
+↓
+
+Golden particles
+
+Click
+
+↓
+
+Ripple
+
+↓
+
+Snack crumbs burst
+
+Smooth 60FPS.
+
+--------------------------------------------
+
+# BACKGROUND AMBIENCE
+
+Golden flour particles.
+
+Floating curry leaves.
+
+Warm sunlight rays.
+
+Tiny spices.
+
+Subtle steam.
+
+Dust particles.
+
+Never distracting.
+
+--------------------------------------------
+
+# PREMIUM FEATURES
+
+Virtual Kitchen Tour
+
+Recipe Timeline
+
+Dealer Registration
+
+Bulk Order Portal
+
+Festival Collections
+
+Gift Boxes
+
+Download Catalogue
+
+AI Snack Recommender
+
+WhatsApp Ordering
+
+Live Chat
+
+Premium Packaging Showcase
+
+Google Reviews
+
+--------------------------------------------
+
+# PERFORMANCE
+
+Lighthouse 95+
+
+SEO Optimized
+
+Accessibility 100
+
+Fully Responsive
+
+Tablet Ready
+
+Lazy Loading
+
+Image Optimization
+
+60 FPS Animations
+
+--------------------------------------------
+
+# FINAL GOAL
+
+Create an unforgettable digital experience that celebrates authentic South Indian traditional snacks through premium storytelling, cinematic animations, immersive 3D visuals, luxurious glassmorphism, and smooth interactions. The website should feel like a modern global food brand while preserving the warmth, nostalgia, and authenticity of handmade traditional recipes. Every animation, every transition, every hover interaction, and every scroll should make visitors crave the products and immediately trust the brand.

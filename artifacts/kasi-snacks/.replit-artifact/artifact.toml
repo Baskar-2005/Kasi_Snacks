@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Kasi Snacks"
+version = "1.0.0"
+id = "artifacts/kasi-snacks"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19959
+
+[services.development]
+run = "pnpm --filter @workspace/kasi-snacks run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kasi-snacks", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/kasi-snacks/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19959"
+BASE_PATH = "/"
