@@ -116,7 +116,7 @@ export const Hero: React.FC = () => {
   ];
 
   return (
-    <section id="home" className="relative w-full h-screen min-h-[760px] overflow-hidden">
+    <section id="home" className="relative w-full h-screen min-h-[760px]" style={{ overflow: 'clip' }}>
 
       {/* ── Hero background image ── */}
       <div className="absolute inset-0 z-0">
@@ -156,7 +156,7 @@ export const Hero: React.FC = () => {
             Since Generations · Cuddalore, Tamil Nadu
           </motion.p>
 
-          <div ref={headlineRef} className="mb-6 overflow-hidden">
+          <div ref={headlineRef} className="mb-6" style={{ overflow: 'clip' }}>
             <h1 className="hl font-display text-[3.6rem] sm:text-[4.8rem] lg:text-[5.8rem] leading-[1.05] text-[#FFF8EE] opacity-0">
               Handmade
             </h1>

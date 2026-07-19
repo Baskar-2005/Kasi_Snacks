@@ -21,7 +21,7 @@ export const OurStory: React.FC = () => {
   const lineHeight = useTransform(scrollYProgress, [0, 1], ["0%", "100%"]);
 
   return (
-    <section id="story" className="w-full bg-[#FFF8EE] py-24 md:py-32 relative overflow-hidden">
+    <section id="story" className="w-full bg-[#FFF8EE] py-24 md:py-32 relative" style={{ overflow: 'clip' }}>
       
       {/* Decorative background elements */}
       <div className="absolute top-0 right-0 w-64 h-64 bg-[#D9A520]/5 rounded-full blur-3xl" />

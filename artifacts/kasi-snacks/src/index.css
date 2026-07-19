@@ -116,11 +116,14 @@
     font-family: 'Poppins', sans-serif;
   }
 
+  html {
+    overflow-x: clip; /* clip on html, NOT hidden — hidden on body breaks Lenis by creating a body scroll container */
+  }
+
   body {
     @apply bg-background text-foreground antialiased;
     font-family: 'Poppins', sans-serif;
     background-color: #1A0E08;
-    overflow-x: hidden;
   }
 
   h1, h2, h3, h4, h5, h6 {

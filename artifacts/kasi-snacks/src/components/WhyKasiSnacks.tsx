@@ -37,7 +37,7 @@ const features = [
 
 export const WhyKasiSnacks: React.FC = () => {
   return (
-    <section className="py-24 md:py-32 bg-[#3B2314] relative overflow-hidden">
+    <section className="py-24 md:py-32 bg-[#3B2314] relative" style={{ overflow: 'clip' }}>
       
       {/* Subtle Pattern Background */}
       <div 

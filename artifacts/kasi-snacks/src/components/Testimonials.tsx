@@ -17,7 +17,7 @@ export const Testimonials: React.FC = () => {
   const row2 = reviews.slice(4, 8);
 
   return (
-    <section className="py-24 bg-[#3B2314] overflow-hidden">
+    <section className="py-24 bg-[#3B2314]" style={{ overflow: 'clip' }}>
       
       <div className="text-center mb-16 px-6">
         <h2 className="font-display text-4xl md:text-5xl text-[#D9A520] mb-4">What Our Customers Say</h2>

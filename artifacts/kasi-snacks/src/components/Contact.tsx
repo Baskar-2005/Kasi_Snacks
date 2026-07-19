@@ -4,7 +4,7 @@ import { MapPin, Phone, Mail, MessageCircle } from 'lucide-react';
 
 export const Contact: React.FC = () => {
   return (
-    <section id="contact" className="py-24 md:py-32 bg-[#3B2314] relative overflow-hidden">
+    <section id="contact" className="py-24 md:py-32 bg-[#3B2314] relative" style={{ overflow: 'clip' }}>
       {/* Ambient glow */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[#D9A520]/5 rounded-full blur-[120px] pointer-events-none" />
 
