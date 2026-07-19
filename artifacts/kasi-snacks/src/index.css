@@ -117,7 +117,8 @@
   }
 
   html {
-    overflow-x: clip; /* clip on html, NOT hidden — hidden on body breaks Lenis by creating a body scroll container */
+    overflow-x: clip;
+    scroll-behavior: smooth; /* native smooth scroll — no Lenis or GSAP needed */
   }
 
   body {
@@ -179,9 +180,18 @@
   background-clip: text;
 }
 
-/* Smooth scroll */
-html {
-  scroll-behavior: smooth;
+/* ── Hero CSS animations (replace GSAP) ── */
+@keyframes heroSpin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+@keyframes heroFloat {
+  from { transform: translateY(0px) rotate(0deg); }
+  to   { transform: translateY(-14px) rotate(3deg); }
+}
+@keyframes heroBounce {
+  0%, 100% { transform: translateX(-50%) translateY(0);   }
+  50%       { transform: translateX(-50%) translateY(9px); }
 }
 
 /* Hide scrollbar but keep scroll */
