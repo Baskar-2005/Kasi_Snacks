@@ -206,7 +206,7 @@
   border-radius: 2px;
 }
 
-/* Remove default cursor for custom cursor */
-*, *::before, *::after {
-  cursor: auto;
+/* Restore pointer cursor on interactive elements */
+a, button, [role="button"], input[type="submit"], input[type="button"], label[for], select {
+  cursor: pointer;
 }
