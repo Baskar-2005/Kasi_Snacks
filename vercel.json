@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "corepack enable && corepack prepare pnpm@10.15.0 --activate && pnpm install --no-frozen-lockfile",
   "buildCommand": "pnpm --filter @workspace/kasi-snacks run build",
-  "outputDirectory": "artifacts/kasi-snacks/dist/public",
+  "outputDirectory": "dist/public",
   "framework": "vite",
   "rewrites": [
     {
